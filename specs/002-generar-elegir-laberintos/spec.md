@@ -2,7 +2,7 @@
 
 **Identificador**: 002-generar-elegir-laberintos
 **Creada**: 2026-10-17
-**Estado**: Descompuesta para revisión; no implementada.
+**Estado**: Fuera del alcance acordado para esta entrega.
 **Fuente**: [SPEC-LAB-001 v1.3](../../base/SPEC.md), idéntica al adjunto analizado.
 **Gobierno**: [Constitución 1.0.0](../../.specify/memory/constitution.md).
 
